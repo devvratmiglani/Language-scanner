@@ -28,8 +28,8 @@ This is a Streamlit application that identifies the **file type (extension)** an
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Bhaskar-10/FileSense.git
-cd FileSense
+git clone https://github.com/devvratmiglani/Language-scanner.git
+cd Language-scanner
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
@@ -64,11 +64,15 @@ This will open the app in your default web browser.
 
 ## Folder Structure
 ```
-FileSense/
-│
-├── app.py             # Main Streamlit application
-├── requirements.txt   # Dependencies
-├── README.md          # Documentation
+Language-scanner/
+│── main.py
+│── utils/
+│   │── file_utils.py
+│   │── text_extraction.py
+│   │── language_detection.py
+│── requirements.txt
+│── README.md
+
 ```
 
 ## License
