@@ -1,0 +1,10 @@
+streamlit
+python-magic
+python-magic-bin
+filetype
+PyPDF2
+python-docx
+pandas
+python-pptx
+py3langid
+openpyxl
